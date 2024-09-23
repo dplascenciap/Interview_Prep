@@ -1,16 +1,16 @@
 # Interview_Prep
 
 ## Introduction
-- I have created this repository as part of my personal interview preparation
+- I have created this repository as part of my personal interview preparation 
 program.
 
-- I will be solving coding exercises as I go over different data and algorithms.
+- I will solve coding exercises as I review different data and algorithms.
 
-- The goal is to solve about 200 problems in three months, that means solving from
-two to three problems per day. I'll keep a record on this file with all the
-problems I've solved.
+- The goal is to solve about 200 problems in three months, solving from two to 
+three issues per day. I'll record all the problems I've solved in this file.
 
-- I've divided the problems in different sections
+- I've divided the problems into different sections.
+
 1. [Arrays](./Arrays/)
 
 ## Problems solved so far [001/200]
