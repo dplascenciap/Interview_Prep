@@ -13,6 +13,8 @@ problems I've solved.
 - I've divided the problems in different sections
 1. [Arrays](./Arrays/)
 
+## Problems solved so far [001/200]
+
 ## Arrays
 
 1. Two Sum (https://leetcode.com/problems/two-sum/)
