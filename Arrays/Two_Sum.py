@@ -2,16 +2,16 @@
 Given an array of integers nums and an integer target, return indices of the two
 numbers such that they add up to target.
 
-You may assume that each input would have exactly one solution, and you may not 
+You may assume that each input would have exactly one solution, and you may not
 use the same element twice.
 
 You can return the answer in any order.
 """
 class Solution:
-    # Approach one, brute force    
+    # Approach one, brute force
     # Scan each element in the array and sum each of them
     # Run time = 4105 ms
-    def twoSum_brute_force(self, nums, target):        
+    def twoSum_brute_force(self, nums, target):
         for index_a in range(len(nums)):
             for index_b in range(len(nums)):
                 if index_a == index_b: continue
@@ -19,17 +19,17 @@ class Solution:
                 if target == sum:
                     return (index_a, index_b)
 
-    # Approach two, optimization level 1.    
-    # Find if each element can add up to the target 
+    # Approach two, optimization level 1.
+    # Find if each element can add up to the target
     # Run time = 2432 ms
     def twoSum_optimization_v1(self, nums, target):
         for index_a in range(len(nums)):
             element_to_find = target - nums[index_a]
-            for index_b in range(len(nums)):                        
+            for index_b in range(len(nums)):
                 if index_a == index_b: continue
                 if nums[index_b] == element_to_find:
                     return (index_a, index_b)
-                
+
     # Approach three, optimization level 2.
     # Find the element that can add up to the target in a list
     # Run time = 495 ms
