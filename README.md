@@ -16,3 +16,4 @@ problems I've solved.
 ## Arrays
 
 1. Two Sum (https://leetcode.com/problems/two-sum/)
+    - Problem solved [x]
