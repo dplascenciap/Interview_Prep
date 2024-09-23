@@ -17,5 +17,4 @@ problems I've solved.
 
 ## Arrays
 
-1. Two Sum - [Local Repository](./Arrays/Two_Sum.py) - (https://leetcode.com/problems/two-sum/)
-    - [x] Problem solved
+1. [x] Two Sum - [Local Repository](./Arrays/Two_Sum.py) - (https://leetcode.com/problems/two-sum/)
