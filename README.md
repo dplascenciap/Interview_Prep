@@ -17,7 +17,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 ## Arrays
 
-1. Two Sum - [Local Repository](./Arrays/Two_Sum.py) - (https://leetcode.com/problems/two-sum/)
+1. Two Sum - [Local Repository](./Arrays/Two_Sum.py) - [Leetcode](https://leetcode.com/problems/two-sum/)
     - [x] Status : Problem solved
 2. TBD
     - [ ] Status : In Progress...
