@@ -29,7 +29,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 - Test Table
 
-| Problem          | Difficulty | Local Repository |
-|------------------|------------|------------------|
-| Two Sum          | Easy       | (./Arrays/Two_Sum.py) |
-| Maximum Subarray | Medium     | (./Arrays/Maximum_Subarray.py) |
+|Problem          |Difficulty |Local Repository                 |
+|-----------------|-----------|---------------------------------|
+|Two Sum          |Easy       |[](./Arrays/Two_Sum.py)          |
+|Maximum Subarray |Medium     |[](./Arrays/Maximum_Subarray.py) |
