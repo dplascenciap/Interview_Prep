@@ -20,7 +20,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 ## Problems solved so far [001/200]
 
-## Arrays
+### Arrays
 
 |ID  |Status         |Problem          |Difficulty |Local Repository                                   |External|Concepts|
 |:---|:--------------|:----------------|:----------|:--------------------------------------------------|:-------|:-------|
