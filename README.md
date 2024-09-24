@@ -33,3 +33,11 @@ three issues per day. I'll record all the problems I've solved in this file.
 |:----------------|:----------|:--------------------------------------------------|:-------|:-------|
 |Two Sum          |Easy       |[Two_Sum.py](./Arrays/Two_Sum.py)                  |[Two_Sum](https://leetcode.com/problems/two-sum/)|Arrays, loops|
 |Maximum Subarray |Medium     |[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Divide and Conquer Approach, Kadane's Algorithm|
+
+| Feature       | Description        |
+|---------------|--------------------|
+| Item 1        | - First point       |
+|               | - Second point      |
+|               | - Third point       |
+| Item 2        | * Another point     |
+|               | * Additional info   |
