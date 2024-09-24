@@ -22,11 +22,6 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 ## Arrays
 
-1. Two Sum - [Local](./Arrays/Two_Sum.py) - [Leetcode](https://leetcode.com/problems/two-sum/)
-    - [x] Status : Problem solved
-2. Maximum Subarray - [Local](./Arrays/Maximum_Subarray.py) - [Leetcode](https://leetcode.com/problems/maximum-subarray/description/)
-    - [ ] Status : In Progress...
-
 |ID  |Status         |Problem          |Difficulty |Local Repository                                   |External|Concepts|
 |:---|:--------------|:----------------|:----------|:--------------------------------------------------|:-------|:-------|
 |001 | Solved        |Two Sum          |Easy       |[Two_Sum.py](./Arrays/Two_Sum.py)                  |[Two_Sum](https://leetcode.com/problems/two-sum/)|Arrays, loops|
