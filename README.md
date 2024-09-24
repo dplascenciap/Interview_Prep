@@ -28,7 +28,8 @@ three issues per day. I'll record all the problems I've solved in this file.
     - [ ] Status : In Progress...
 
 - Test Table
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+| Left Aligned | Center Aligned | Right Aligned |
+|:------------ |:--------------:| -------------:|
+| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3   |
+| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
