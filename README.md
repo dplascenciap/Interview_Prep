@@ -29,7 +29,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 - Test Table
 
-| Left Aligned | Center Aligned | Right Aligned |
-|:------------ |:--------------:| -------------:|
-| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3   |
-| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
+| Problem             |Difficulty|
+|:-------------------:|:---------:|
+| Two Sum             |Easy|
+| Maximum Subarray    |Medium|
