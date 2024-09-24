@@ -29,7 +29,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 - Test Table
 
-|ID |Status             |Problem          |Difficulty |Local Repository                                   |Leetcode|Concepts|
-|:--|:------------------|:----------------|:----------|:--------------------------------------------------|:-------|:-------|
-|001| [x] Solved        |Two Sum          |Easy       |[Two_Sum.py](./Arrays/Two_Sum.py)                  |[Two_Sum](https://leetcode.com/problems/two-sum/)|Arrays, loops|
-|002 |[ ] In Progress...|Maximum Subarray |Medium     |[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Divide and Conquer Approach, Kadane's Algorithm|
+|ID |Status              |Problem          |Difficulty |Local Repository                                   |Leetcode|Concepts|
+|:---|:------------------|:----------------|:----------|:--------------------------------------------------|:-------|:-------|
+|001 | [x] Solved        |Two Sum          |Easy       |[Two_Sum.py](./Arrays/Two_Sum.py)                  |[Two_Sum](https://leetcode.com/problems/two-sum/)|Arrays, loops|
+|002 | [ ] In Progress...|Maximum Subarray |Medium     |[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Divide and Conquer Approach, Kadane's Algorithm|
