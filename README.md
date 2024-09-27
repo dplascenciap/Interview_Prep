@@ -18,11 +18,11 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 1. [Arrays](./Arrays/)
 
-## Problems solved so far [001/200]
+## Problems solved so far [002/200]
 
 ### Arrays
 
 |ID  |Status         |Problem          |Difficulty |Local Repository                                   |External|Concepts|
 |:---|:--------------|:----------------|:----------|:--------------------------------------------------|:-------|:-------|
 |001 | Solved        |Two Sum          |Easy       |[Two_Sum.py](./Arrays/Two_Sum.py)                  |[Two_Sum](https://leetcode.com/problems/two-sum/)|Arrays, loops|
-|002 | In Progress...|Maximum Subarray |Medium     |[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Divide and Conquer Approach, Kadane's Algorithm|
+|002 | Solved        |Maximum Subarray |Medium     |[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Divide and Conquer Approach, Kadane's Algorithm|
