@@ -14,6 +14,9 @@ program.
 - The goal is to solve about 200 problems in three months, solving from two to
 three issues per day. I'll record all the problems I've solved in this file.
 
+- Consider using this tool to debug and visualize your code.
+  - https://pythontutor.com/python-compiler.html#mode=edit
+
 - I've divided the problems into different sections.
 
 1. [Arrays](./Arrays/)
