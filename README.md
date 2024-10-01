@@ -21,7 +21,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 1. [Arrays](./Arrays/)
 
-## Problems solved so far [002/200]
+## Problems solved so far [003/200]
 
 ### Arrays
 
