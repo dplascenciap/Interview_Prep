@@ -30,3 +30,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |001|Solved|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[Two_Sum.py](./Arrays/Two_Sum.py)|Arrays, loops|
 |002|Solved|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Medium|[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|Divide and Conquer Approach, Kadane's Algorithm|
 |003|Solved|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|[Palindrome_Number.py](./Arrays/Palindrome_Number.py)|Arrays|
+|004|In Progress...|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|Easy|[Roman_To_Integer.py](./Arrays/Roman_To_Integer.py)|Arrays|
