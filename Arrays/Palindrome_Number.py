@@ -4,6 +4,7 @@ class Solution:
         lex_x_sting = len(x_string)
         if lex_x_sting == 1:
             return True
+        # left_index, right_index = 0, lex_x_sting - 1
         left_index  = 0
         right_index = lex_x_sting - 1
         while left_index > right_index:
