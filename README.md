@@ -21,7 +21,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 1. [Arrays](./Arrays/)
 
-## Problems solved so far [004/200]
+## Problems solved so far [005/200]
 
 ### Arrays
 
@@ -31,3 +31,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |002|Solved|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Medium|[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|Divide and Conquer Approach, Kadane's Algorithm|
 |003|Solved|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|[Palindrome_Number.py](./Arrays/Palindrome_Number.py)|Arrays|
 |004|Solved|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|Easy|[Roman_To_Integer.py](./Arrays/Roman_To_Integer.py)|Arrays|
+|005|Solved|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|Easy|[Move_Zeroes.py](./Arrays/Move_Zeroes.py)|Arrays|
