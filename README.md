@@ -34,3 +34,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |005|Solved|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|Easy|[Move_Zeroes.py](./Arrays/Move_Zeroes.py)|Arrays|
 |006|Solved|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|Easy|[Contains_Duplicate.py](./Arrays/Contains_Duplicate.py)|Arrays, Hash Table, set()|
 |007|Solved|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|Easy|[Contains_Duplicate_II.py](./Arrays/Contains_Duplicate_II.py)|Arrays, Hash Table|
+|008|In Progress...|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|[Rotate_Array.py](./Arrays/Rotate_Array.py)|Arrays, Two Pointers|
