@@ -32,4 +32,5 @@ three issues per day. I'll record all the problems I've solved in this file.
 |003|Solved|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|[Palindrome_Number.py](./Arrays/Palindrome_Number.py)|Arrays|
 |004|Solved|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|Easy|[Roman_To_Integer.py](./Arrays/Roman_To_Integer.py)|Arrays|
 |005|Solved|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|Easy|[Move_Zeroes.py](./Arrays/Move_Zeroes.py)|Arrays|
-|006|Solved|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|Easy|[Contains_Duplicate.py](./Arrays/Contains_Duplicate.py)|Hash Table|
+|006|Solved|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|Easy|[Contains_Duplicate.py](./Arrays/Contains_Duplicate.py)|Arrays, Hash Table, set()|
+|007|Solved|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|Easy|[Contains_Duplicate_II.py](./Arrays/Contains_Duplicate_II.py)|Arrays, Hash Table|
