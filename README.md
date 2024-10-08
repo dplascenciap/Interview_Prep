@@ -21,17 +21,17 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 1. [Arrays](./Arrays/)
 
-## Problems solved so far [006/200]
+## Problems solved so far [008/200]
 
 ### Arrays
 
 |ID|Status|Problem|Difficulty|Local Repository|Concepts|
 |:--|:--|:--|:--|:--|:--|
 |001|Solved|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[Two_Sum.py](./Arrays/Two_Sum.py)|Arrays, loops|
-|002|Solved|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Medium|[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|Divide and Conquer Approach, Kadane's Algorithm|
+|002|Solved|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Medium|[Maximum_Subarray.py](./Arrays/Maximum_Subarray.py)|[Divide and Conquer Approach](https://www.youtube.com/watch?v=UxtAqHOb8aw), Kadane's Algorithm|
 |003|Solved|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|Easy|[Palindrome_Number.py](./Arrays/Palindrome_Number.py)|Arrays|
 |004|Solved|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|Easy|[Roman_To_Integer.py](./Arrays/Roman_To_Integer.py)|Arrays|
 |005|Solved|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|Easy|[Move_Zeroes.py](./Arrays/Move_Zeroes.py)|Arrays|
 |006|Solved|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|Easy|[Contains_Duplicate.py](./Arrays/Contains_Duplicate.py)|Arrays, Hash Table, set()|
 |007|Solved|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|Easy|[Contains_Duplicate_II.py](./Arrays/Contains_Duplicate_II.py)|Arrays, Hash Table|
-|008|In Progress...|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|[Rotate_Array.py](./Arrays/Rotate_Array.py)|Arrays, Two Pointers|
+|008|Solved|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|[Rotate_Array.py](./Arrays/Rotate_Array.py)|Arrays, Two Pointers, Consider this [solution](https://leetcode.com/problems/rotate-array/solutions/5550096/video-using-remainder-with-3-solutions)|
