@@ -21,7 +21,7 @@ three issues per day. I'll record all the problems I've solved in this file.
 
 1. [Arrays](./Arrays/)
 
-## Problems solved so far [010/200]
+## Problems solved so far [011/200]
 
 ### Arrays
 
@@ -37,3 +37,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |008|Solved|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|Medium|[Rotate_Array.py](./Arrays/Rotate_Array.py)|Arrays, Two Pointers, Consider this [solution](https://leetcode.com/problems/rotate-array/solutions/5550096/video-using-remainder-with-3-solutions)|
 |009|Solved|[Longest Word](https://www.coderbyte.com/language/Longest%20Word)|Easy|[Longest_Word.py](./Arrays/Longest_Word.py)|Arrays, regex|
 |010|Solved|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|[Valid_Anagram.py](./Arrays/Valid_Anagram.py)|Arrays|
+|011|Solved|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|[Group_Anagrams.py](./Arrays/Group_Anagrams.py)|Arrays, Hast Table|
