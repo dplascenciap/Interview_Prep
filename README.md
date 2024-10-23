@@ -39,4 +39,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |010|Solved|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|[Valid_Anagram.py](./Arrays/Valid_Anagram.py)|Arrays|
 |011|Solved|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|[Group_Anagrams.py](./Arrays/Group_Anagrams.py)|Arrays, Hast Table|
 |012|Solved|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|[Top_K_Frequent_Elements.py](./Arrays/Top_K_Frequent_Elements.py)|Arrays, Hash Table, Partial [Bucket Sort](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html)|
-|013|Solved|Implement Bubble Sort|Easy|[Bubble_sort.py](./Arrays/Bubble_sort.py)|Arrays, Consider this [visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)|
+|013|Solved|Implement Bubble Sort|Easy|[Bubble_Sort.py](./Arrays/Bubble_Sort.py)|Arrays, Consider this [visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)|
