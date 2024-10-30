@@ -49,3 +49,4 @@ three issues per day. I'll record all the problems I've solved in this file.
 |:--|:--|:--|:--|:--|:--|
 |00A|Solved|Bubble Sort|Easy|[Bubble_Sort.py](./Sorting%20Algorithms/Bubble_Sort.py)|Arrays|
 |00B|Solved|Selection Sort|Easy|[Selection_Sort.py](./Sorting%20Algorithms/Selection_Sort.py)|Arrays|
+|00C|Solved|Insertion Sort|Easy|[Insertion_Sort.py](./Sorting%20Algorithms/Insertion_Sort.py)|Arrays|
