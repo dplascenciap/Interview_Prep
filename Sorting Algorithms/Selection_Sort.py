@@ -1,3 +1,8 @@
+"""
+Summary of Time and Space Complexities
+Approach                Best Case  Worst Case   Space Complexity
+Standard                   O(n²)      O(n²)          O(1)
+"""
 # Selection sort
 def selection_sort(nums):
     n = len(nums)
