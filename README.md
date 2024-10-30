@@ -46,5 +46,6 @@ three issues per day. I'll record all the problems I've solved in this file.
 - Consider this [visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
 
 |ID|Status|Problem|Difficulty|Local Repository|Concepts|
+|:--|:--|:--|:--|:--|:--|
 |00A|Solved|Bubble Sort|Easy|[Bubble_Sort.py](./Sorting%20Algorithms/Bubble_Sort.py)|Arrays|
 |00B|Solved|Selection Sort|Easy|[Selection_Sort.py](./Sorting%20Algorithms/Selection_Sort.py)|Arrays|
